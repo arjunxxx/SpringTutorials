@@ -5,7 +5,7 @@ public class HappyFortuneService implements IFortuneService {
 	@Override
 	public String getFortueMessage() {
 	
-		return "lucky day ";
+		return "your lucky day ";
 	}
 
 }
