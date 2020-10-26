@@ -15,12 +15,12 @@ public class BaseBallCoach implements ICoach {
 
 	@PostConstruct
 	public void dummyInit() {
-		System.out.println("inside dummy init method");
+		System.out.println("inside dummy init BaseBallCoach method");
 	}
 
 	@PreDestroy
 	public void dummyDestroy() {
-		System.out.println("inside dummy destroy method");
+		System.out.println("inside dummy destroy BaseBallCoach method");
 	}
 
 	@Override
