@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form action="hello/processForm">
+	<form action="processForm">
 
 		Enter your name <input type="text" name="username" placeholder="your name"> <input type="submit"
 			value="Login">
